@@ -1,6 +1,8 @@
 # CBTCIP
 #portfolio deployed link -- https://669a3900f45878ba1950f625--superlative-syrniki-29a3bb.netlify.app/
+#weathervue deployed link -- https://669a3a7552b0890dd9c8823b--calm-mermaid-d5653c.netlify.app/
 
+                                             PERSONAL PORTFOLIO
 This is my personal portfolio website designed to showcase my skills, projects, and contact information. The site is built with HTML, CSS, and JavaScript, featuring a clean and modern design.
 Features:
      A responsive navigation bar that includes links to different sections of the portfolio, such as Home, About, Portfolio, and Contact. The navigation menu toggles visibility on smaller screens.
@@ -15,15 +17,15 @@ Key Components
     styles.css: The stylesheet for styling the application, including layout, typography, and color schemes.
     script.js: The JavaScript file handling interactive elements, such as the navigation menu toggle.
 
-#weathervue deployed link -- https://669a3a7552b0890dd9c8823b--calm-mermaid-d5653c.netlify.app/
+                                             WEATHERVUE
 
 WeatherVue is a simple, interactive weather application built using HTML, CSS, and JavaScript. The application provides real-time weather information for a specified location and a 4-day weather forecast.
 
 Features:
-   1. Current Weather Display: Shows the current weather conditions, including temperature, cloud coverage, and weather icon.
-   2. Search Functionality: Allows users to search for weather information by entering a location in the search field.
-   3. Detailed Weather Information: Displays details such as temperature, humidity, wind speed, sunrise, and sunset times for the selected location.
-   4. Forecast: Provides a 4-day weather forecast with daily temperatures and weather icons.
+Current Weather Display: Shows the current weather conditions, including temperature, cloud coverage, and weather icon.
+    Search Functionality: Allows users to search for weather information by entering a location in the search field.
+    Detailed Weather Information: Displays details such as temperature, humidity, wind speed, sunrise, and sunset times for the selected location.
+    Forecast: Provides a 4-day weather forecast with daily temperatures and weather icons.
 
 Key Components:
     index.html: The main HTML file that structures the web page. It includes sections for current weather, search functionality, detailed weather information, and a 4-day forecast.
