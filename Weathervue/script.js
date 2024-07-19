@@ -1,7 +1,7 @@
 "use strict";
 
 document.addEventListener("DOMContentLoaded", () => {
-  const API = "5dcd5584cdd030feab29bd1c47d0fd89";
+
 
   const dayEl = document.querySelector(".default_day");
   const dateEl = document.querySelector(".default_date");
