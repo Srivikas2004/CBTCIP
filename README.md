@@ -3,12 +3,12 @@
 
 This is my personal portfolio website designed to showcase my skills, projects, and contact information. The site is built with HTML, CSS, and JavaScript, featuring a clean and modern design.
 Features:
-    1. A responsive navigation bar that includes links to different sections of the portfolio, such as Home, About, Portfolio, and Contact. The navigation menu toggles visibility on smaller screens.
-    2. An introductory section with a brief overview of who I am, my role as a Web Developer, and links to my social media profiles. It also includes a button to download my CV.
-    3. About Me: A section detailing my background, education, and passion for web development. It includes a profile image and a summary of my skills.
-    4.Skills: A section showcasing my skills with progress bars indicating my proficiency in various technologies including HTML, CSS, JavaScript, Bootstrap, and React.
-    5.Projects: A section displaying some of my notable projects with links to their GitHub repositories and live demos. Each project has a brief description and relevant images.
-    6.Contact: A contact form integrated with Web3Forms for easy communication. Users can send messages directly from the website.
+     A responsive navigation bar that includes links to different sections of the portfolio, such as Home, About, Portfolio, and Contact. The navigation menu toggles visibility on smaller screens.
+     An introductory section with a brief overview of who I am, my role as a Web Developer, and links to my social media profiles. It also includes a button to download my CV.
+    A section detailing my background, education, and passion for web development. It includes a profile image and a summary of my skills.
+    A section showcasing my skills with progress bars indicating my proficiency in various technologies including HTML, CSS, JavaScript, Bootstrap, and React.
+    A section displaying some of my notable projects with links to their GitHub repositories and live demos. Each project has a brief description and relevant images.
+    A contact form integrated with Web3Forms for easy communication. Users can send messages directly from the website.
 
 Key Components
     index.html: The main HTML file containing the structure of the website, including sections for the hero, about me, projects, and contact.
